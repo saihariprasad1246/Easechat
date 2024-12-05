@@ -40,6 +40,8 @@ Code and documents to create real-time chat application using the following stac
 
 ---
 
+---
+
 #### File structure
 
 client
