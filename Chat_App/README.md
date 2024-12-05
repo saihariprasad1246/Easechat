@@ -1,8 +1,4 @@
-## CHAT APP using MERN stack and SOCKET.IO 🤠
 
-- Visit <https://react-chat-vars.herokuapp.com/>
-
----
 
 ### Features
 
@@ -158,10 +154,10 @@ userRoutes.js
 
 ## Contributors
 
-- Vaibhav Dhiman <vaibhav.dhiman.my@gmail.com>
+- Sai Hari Prasad <addagirisaihariprasad@gmail.com>
 
 ---
 
 ## License & copyright
 
-©️ Vaibhav Dhiman
+©️ Sai Hari Prasad
